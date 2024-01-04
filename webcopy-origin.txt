@@ -1,0 +1,2060 @@
+Uri: https://diegovz.com/en/
+File Name: C:\Downloaded Web Sites\diegovz.com\en\index.htm
+Content Type: text/html
+
+Uri: https://diegovz.com/en/2020/02/08
+File Name: C:\Downloaded Web Sites\diegovz.com\en\2020\02\08.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/2020/04/17
+File Name: C:\Downloaded Web Sites\diegovz.com\en\2020\04\17.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/2020/11/05
+File Name: C:\Downloaded Web Sites\diegovz.com\en\2020\11\05.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/2021/05/24
+File Name: C:\Downloaded Web Sites\diegovz.com\en\2021\05\24.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/2021/05/27
+File Name: C:\Downloaded Web Sites\diegovz.com\en\2021\05\27.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/2021/06/09
+File Name: C:\Downloaded Web Sites\diegovz.com\en\2021\06\09.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/2021/06/20
+File Name: C:\Downloaded Web Sites\diegovz.com\en\2021\06\20.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/about-me
+File Name: C:\Downloaded Web Sites\diegovz.com\en\about-me.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/author/wp-admin-diego
+File Name: C:\Downloaded Web Sites\diegovz.com\en\author\wp-admin-diego.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/author/wp-admin-diego/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\author\wp-admin-diego\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/blog
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/8pt-vs-10pt-grid
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\8pt-vs-10pt-grid.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/8pt-vs-10pt-grid/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\8pt-vs-10pt-grid\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/blog/8pt-vs-10pt-grid?p=7048
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\8pt-vs-10pt-grid-1.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/hicks-law
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\hicks-law.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/hicks-law/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\hicks-law\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/blog/hicks-law?p=6935
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\hicks-law-1.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/memory-in-ux
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\memory-in-ux.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/memory-in-ux/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\memory-in-ux\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/blog/memory-in-ux?p=7746
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\memory-in-ux-1.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/mental-models-in-ux
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\mental-models-in-ux.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/mental-models-in-ux/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\mental-models-in-ux\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/blog/mental-models-in-ux?p=5751
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\mental-models-in-ux-1.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/mvp-better-go-for-a-mup
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\mvp-better-go-for-a-mup.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/mvp-better-go-for-a-mup/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\mvp-better-go-for-a-mup\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/blog/mvp-better-go-for-a-mup?p=5756
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\mvp-better-go-for-a-mup-1.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/ux-in-the-org-chart
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\ux-in-the-org-chart.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/ux-in-the-org-chart?p=5753
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\ux-in-the-org-chart-1.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/what-product-design-really-is
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\what-product-design-really-is.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/blog/what-product-design-really-is/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\what-product-design-really-is\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/blog/what-product-design-really-is?p=7843
+File Name: C:\Downloaded Web Sites\diegovz.com\en\blog\what-product-design-really-is-1.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/feed
+File Name: C:\Downloaded Web Sites\diegovz.com\en\feed
+Content Type: application/rss+xml
+
+Uri: https://diegovz.com/en/projects/clash-royale-reactions
+File Name: C:\Downloaded Web Sites\diegovz.com\en\projects\clash-royale-reactions.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/projects/easy-food-order-eat-and-pay
+File Name: C:\Downloaded Web Sites\diegovz.com\en\projects\easy-food-order-eat-and-pay.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/projects/rappi-my-profile
+File Name: C:\Downloaded Web Sites\diegovz.com\en\projects\rappi-my-profile.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/projects/rappi-new-add-to-cart
+File Name: C:\Downloaded Web Sites\diegovz.com\en\projects\rappi-new-add-to-cart.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/projects/rappimix
+File Name: C:\Downloaded Web Sites\diegovz.com\en\projects\rappimix.html
+Content Type: text/html
+
+Uri: https://diegovz.com/en/resume
+File Name: C:\Downloaded Web Sites\diegovz.com\en\resume.html
+Content Type: text/html
+
+Uri: https://diegovz.com/wp-content/plugins/3r-elementor-timeline-widget/assets/css/style.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\3r-elementor-timeline-widget\assets\css\style.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.4
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.18.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.18.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.18.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/include-lottie-animation-for-elementor/assets/js/extra/lottie.min.js?ver=1.10.6
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\include-lottie-animation-for-elementor\assets\js\extra\lottie.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/include-lottie-animation-for-elementor/assets/js/main/jbafe_script.min.js?ver=1.10.6
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\include-lottie-animation-for-elementor\assets\js\main\jbafe_script.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/juiz-social-post-sharer/assets/js/juiz-social-post-sharer.min.js?ver=2.3.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\juiz-social-post-sharer\assets\js\juiz-social-post-sharer.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/juiz-social-post-sharer/skins/8/style.min.css?ver=2.3.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\juiz-social-post-sharer\skins\8\style.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\premium-addons.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/prettyphoto.min.css?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\prettyphoto.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/isotope.min.js?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\isotope.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\lottie.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-addons.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-wrapper-link.min.js?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-wrapper-link.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/prettyPhoto.min.js?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\prettyPhoto.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/universal-tilt.min.js?ver=4.10.15
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\universal-tilt.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.3.80
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/loading-animations.min.css?ver=1.3.80
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\loading-animations.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.3.80
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\text-animations.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/wpr-animations.min.css?ver=1.3.80
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\css\lib\animations\wpr-animations.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/aos/aos.min.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\css\lib\aos\aos.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.3.80
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/aos/aos.min.js
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\aos\aos.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/infinite-scroll/infinite-scroll.min.js?ver=3.0.5
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\infinite-scroll\infinite-scroll.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\jarallax\jarallax.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/lottie/lottie.min.js?ver=5.8.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\lottie\lottie.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\parallax\parallax.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\lib\particles\particles.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.3.80
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\royal-elementor-addons\assets\js\modal-popups.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/plugins/wavo-elementor-addons/assets/front/css/custom.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\wavo-elementor-addons\assets\front\css\custom.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/plugins/wavo-elementor-addons/assets/front/js/custom-scripts.js?ver=2.0.6
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\plugins\wavo-elementor-addons\assets\front\js\custom-scripts.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo-child/style.css?ver=1.0.3
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo-child\style.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/framework-style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\framework-style.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/plugins/animate.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\plugins\animate.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/plugins/fontawesome-all.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\plugins\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/plugins/hamburgers.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\plugins\hamburgers.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/plugins/helper.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\plugins\helper.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/plugins/ionicons.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\plugins\ionicons.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/style.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\style.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/css/update.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\css\update.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/images/loader.gif
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\images\loader.gif
+Content Type: image/gif
+
+Uri: https://diegovz.com/wp-content/themes/wavo/images/pattern-bg.gif
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\images\pattern-bg.gif
+Content Type: image/gif
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/framework-settings.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\framework-settings.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/bootstrap/bootstrap.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\bootstrap\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/cursor/all-cursors.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\cursor\all-cursors.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/cursor/all-cursors.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\cursor\all-cursors.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/jarallax/jarallax.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\jarallax\jarallax.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/jquery-ui/jquery-ui.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\jquery-ui\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/jquery-ui/jquery-ui.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\jquery-ui\jquery-ui.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/magnific/magnific-popup.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\magnific\magnific-popup.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/magnific/magnific-popup.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\magnific\magnific-popup.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/parallaxie/parallaxie.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\parallaxie\parallaxie.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/particles/particles.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\particles\particles.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/smooth-scroll/smoothScroll.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\smooth-scroll\smoothScroll.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/splitting/splitting-cells.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\splitting\splitting-cells.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/splitting/splitting.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\splitting\splitting.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/splitting/splitting.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\splitting\splitting.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/swiper/swiper.min.js?ver=6.3.8
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\swiper\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/vegas/vegas.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\vegas\vegas.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/vegas/vegas.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\vegas\vegas.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/wow/wow.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\wow\wow.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/YouTubePopUp/YouTubePopUp.css?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\YouTubePopUp\YouTubePopUp.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/plugins/YouTubePopUp/YouTubePopUp.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\plugins\YouTubePopUp\YouTubePopUp.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/themes/wavo/js/scripts.js?ver=1.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\themes\wavo\js\scripts.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/flujoss.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\flujoss.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/mvp_mup-2400x1200.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\mvp_mup-2400x1200.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/pruebas_usuario.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\pruebas_usuario.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/sabes_demasiado.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\sabes_demasiado.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/yo-1002x1024.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\yo-1002x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/yo-1502x1536.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\yo-1502x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/yo-293x300.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\yo-293x300.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/yo-768x785.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\yo-768x785.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2020/02/yo.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\02\yo.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2020/04/departamento_desarrollo.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\04\departamento_desarrollo.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/04/departamento_de_producto.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\04\departamento_de_producto.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/04/departamento_marketing.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\04\departamento_marketing.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/04/ux_organigrama-2400x1200.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\04\ux_organigrama-2400x1200.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/606b275ac98466f29bc81951_Lottie-files-logo.gif
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\606b275ac98466f29bc81951_Lottie-files-logo.gif
+Content Type: image/gif
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_bebe_cafe-1024x652.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_bebe_cafe-1024x652.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_bebe_cafe-300x191.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_bebe_cafe-300x191.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_bebe_cafe-768x489.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_bebe_cafe-768x489.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_bebe_cafe.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_bebe_cafe.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_cafe-1024x514.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_cafe-1024x514.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_cafe-300x151.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_cafe-300x151.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_cafe-768x386.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_cafe-768x386.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/capas_principe_cafe.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\capas_principe_cafe.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/clash_royale_portada_2134x1292.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\clash_royale_portada_2134x1292.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2020/06/json-filee.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\06\json-filee.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/arquitectura_info_easyfood.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\arquitectura_info_easyfood.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/camarero.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\camarero.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/carne_cruda.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\carne_cruda.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/carne_hecha.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\carne_hecha.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/cocinero.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\cocinero.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/cocinero_2.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\cocinero_2.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/dliveroo_logo-2-01-150x150.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\dliveroo_logo-2-01-150x150.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/dliveroo_logo-2-01.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\dliveroo_logo-2-01.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/download-1-150x150.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\download-1-150x150.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/download-1-300x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\download-1-300x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/download-1-500x500.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\download-1-500x500.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/download-1.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\download-1.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/Glovo_logo-150x150.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\Glovo_logo-150x150.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/Glovo_logo.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\Glovo_logo.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/hamburguesa.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\hamburguesa.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/justeat-150x150.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\justeat-150x150.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/justeat.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\justeat.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/mesa_qr.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\mesa_qr.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/plato_pasta.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\plato_pasta.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/07/uber-eats-logo.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\07\uber-eats-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/componentes_ejemplo_easy_food.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\componentes_ejemplo_easy_food.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/logotipo_texto.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\logotipo_texto.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/mental_models-2400x1200.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\mental_models-2400x1200.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/menu_lateral_movil_sin_desplegar-197x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\menu_lateral_movil_sin_desplegar-197x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/menu_lateral_movil_sin_desplegar.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\menu_lateral_movil_sin_desplegar.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/pantalla_login_easyf.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\pantalla_login_easyf.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/primary_easy_food.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\primary_easy_food.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/seconday_easy_foodd.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\seconday_easy_foodd.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/11/tipografia_usada_easy_food_v3.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\11\tipografia_usada_easy_food_v3.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/bottom_tabs-197x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\bottom_tabs-197x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/bottom_tabs.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\bottom_tabs.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/iconografia_actual.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\iconografia_actual.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/iconografia_propuesta.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\iconografia_propuesta.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/mas_info_inicial_diseno_actual.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\mas_info_inicial_diseno_actual.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/mas_info_inicial_propuesta.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\mas_info_inicial_propuesta.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/menu_lateral_movil-197x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\menu_lateral_movil-197x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/menu_lateral_movil.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\menu_lateral_movil.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/rappi_mi_perfil_portada_2134x1292.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\rappi_mi_perfil_portada_2134x1292.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/volver_atras-197x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\volver_atras-197x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2020/12/volver_atras.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2020\12\volver_atras.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/01/rappi.otf
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\01\rappi.otf
+Content Type: application/font-sfnt
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/android_vs_ioss.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\android_vs_ioss.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/cartografia_example-300x200.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\cartografia_example-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/cartografia_example.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\cartografia_example.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/ejemplo_1_ley_de_hicks_EN.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\ejemplo_1_ley_de_hicks_EN.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/escalado_grids_en.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\escalado_grids_en.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/painting_examplee-300x200.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\painting_examplee-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/painting_examplee.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\painting_examplee.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/portada_grid_8pt-2400x1200.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\portada_grid_8pt-2400x1200.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/portada_ley_hicks_en-2400x1200.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\portada_ley_hicks_en-2400x1200.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/progressive_disclosure_EN.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\progressive_disclosure_EN.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/saltos_en_grid_10.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\saltos_en_grid_10.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/saltos_grid_8_EN.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\saltos_grid_8_EN.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/todas_las_burgersss.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\todas_las_burgersss.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/todas_las_burgers_subdivision_en.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\todas_las_burgers_subdivision_en.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/writing_example-300x200.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\writing_example-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/05/writing_example.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\05\writing_example.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/amazon_continuar_viendo-1024x324.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\amazon_continuar_viendo-1024x324.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/amazon_continuar_viendo-1536x486.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\amazon_continuar_viendo-1536x486.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/amazon_continuar_viendo-300x95.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\amazon_continuar_viendo-300x95.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/amazon_continuar_viendo-768x243.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\amazon_continuar_viendo-768x243.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/amazon_continuar_viendo.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\amazon_continuar_viendo.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/balance_negocio_usuarios.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\balance_negocio_usuarios.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/disenandos_para_negociooo.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\disenandos_para_negociooo.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/disenando_para_usuarioss.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\disenando_para_usuarioss.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/escala_temporal_memoria_EN.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\escala_temporal_memoria_EN.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/google_paginas_visitadas_2.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\google_paginas_visitadas_2.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/portada_lo_que_realmente_es_product_design_EN-2400x1200.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\portada_lo_que_realmente_es_product_design_EN-2400x1200.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/portada_memoria_EN-2400x1200.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\portada_memoria_EN-2400x1200.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/query-amplitude-add-to-cartt.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\query-amplitude-add-to-cartt.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/06/query-amplitude-remove-from-cartt.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\06\query-amplitude-remove-from-cartt.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/anatomias_antiguas.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\anatomias_antiguas.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/awwwards-logo.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\awwwards-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/cropped-favico-180x180.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\cropped-favico-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/cropped-favico-192x192.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\cropped-favico-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/cropped-favico-32x32.jpg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\cropped-favico-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/JornadaSans-Bold.otf
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\JornadaSans-Bold.otf
+Content Type: application/font-sfnt
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/JornadaSans-Heavy.otf
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\JornadaSans-Heavy.otf
+Content Type: application/font-sfnt
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/zona_eventos_new-202x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\zona_eventos_new-202x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/zona_eventos_new.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\zona_eventos_new.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/zona_eventos_old-210x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\zona_eventos_old-210x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/07/zona_eventos_old.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\07\zona_eventos_old.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2021/08/anatomia_ATC_nueva.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2021\08\anatomia_ATC_nueva.svg
+Content Type: image/svg+xml
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-carrusel-productos-1024x517.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-carrusel-productos-1024x517.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-carrusel-productos-1536x776.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-carrusel-productos-1536x776.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-carrusel-productos-300x152.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-carrusel-productos-300x152.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-carrusel-productos-768x388.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-carrusel-productos-768x388.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-carrusel-productos.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-carrusel-productos.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-entrando-tienda_01-164x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-entrando-tienda_01-164x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-entrando-tienda_01.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-entrando-tienda_01.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-entrando-tienda_02-171x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-entrando-tienda_02-171x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-entrando-tienda_02.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-entrando-tienda_02.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-entrando-tienda_03-183x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-entrando-tienda_03-183x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/mockup-rappimix22-entrando-tienda_03.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\mockup-rappimix22-entrando-tienda_03.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/rappimix-product-marketing.mp4
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\rappimix-product-marketing.mp4
+Content Type: video/mp4
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/rappimix_diseno_anterior-149x300.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\rappimix_diseno_anterior-149x300.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/07/rappimix_diseno_anterior.png
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\07\rappimix_diseno_anterior.png
+Content Type: image/png
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/amalia-avatar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\amalia-avatar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/angie-avatar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\angie-avatar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/diegovz-avatar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\diegovz-avatar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/easyfood_portada_2134x1292-1024x620.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\easyfood_portada_2134x1292-1024x620.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/easyfood_portada_2134x1292-1536x930.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\easyfood_portada_2134x1292-1536x930.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/easyfood_portada_2134x1292-2048x1240.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\easyfood_portada_2134x1292-2048x1240.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/easyfood_portada_2134x1292-300x182.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\easyfood_portada_2134x1292-300x182.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/easyfood_portada_2134x1292-768x465.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\easyfood_portada_2134x1292-768x465.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/easyfood_portada_2134x1292.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\easyfood_portada_2134x1292.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/jorge-avatar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\jorge-avatar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/luis-avatar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\luis-avatar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/mockup-rappimix-header-timer-194x300.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\mockup-rappimix-header-timer-194x300.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/mockup-rappimix-header-timer.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\mockup-rappimix-header-timer.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/mockup-rappimix23-new-search-bar-185x300.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\mockup-rappimix23-new-search-bar-185x300.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/mockup-rappimix23-new-search-bar-631x1024.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\mockup-rappimix23-new-search-bar-631x1024.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/mockup-rappimix23-new-search-bar-768x1247.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\mockup-rappimix23-new-search-bar-768x1247.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/mockup-rappimix23-new-search-bar-946x1536.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\mockup-rappimix23-new-search-bar-946x1536.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/mockup-rappimix23-new-search-bar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\mockup-rappimix23-new-search-bar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/new-atc_portada_2134x1292-1024x620.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\new-atc_portada_2134x1292-1024x620.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/new-atc_portada_2134x1292-1536x930.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\new-atc_portada_2134x1292-1536x930.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/new-atc_portada_2134x1292-2048x1240.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\new-atc_portada_2134x1292-2048x1240.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/new-atc_portada_2134x1292-300x182.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\new-atc_portada_2134x1292-300x182.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/new-atc_portada_2134x1292-768x465.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\new-atc_portada_2134x1292-768x465.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/new-atc_portada_2134x1292.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\new-atc_portada_2134x1292.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/nima-avatar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\nima-avatar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/pablo-avatar.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\pablo-avatar.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix-2022-usability-test.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix-2022-usability-test.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix2022-escala-likert-disenos.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix2022-escala-likert-disenos.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix_portada_2134x1292-1024x620.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix_portada_2134x1292-1024x620.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix_portada_2134x1292-1536x930.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix_portada_2134x1292-1536x930.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix_portada_2134x1292-2048x1240.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix_portada_2134x1292-2048x1240.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix_portada_2134x1292-300x182.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix_portada_2134x1292-300x182.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix_portada_2134x1292-768x465.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix_portada_2134x1292-768x465.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/rappimix_portada_2134x1292.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\rappimix_portada_2134x1292.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/roostfy_portada_2134x1292-1024x620.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\roostfy_portada_2134x1292-1024x620.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/roostfy_portada_2134x1292-1536x930.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\roostfy_portada_2134x1292-1536x930.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/roostfy_portada_2134x1292-2048x1240.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\roostfy_portada_2134x1292-2048x1240.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/roostfy_portada_2134x1292-300x182.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\roostfy_portada_2134x1292-300x182.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/roostfy_portada_2134x1292-768x465.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\roostfy_portada_2134x1292-768x465.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/wip_portada_2134x1292-1024x620.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\wip_portada_2134x1292-1024x620.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/wip_portada_2134x1292-1536x930.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\wip_portada_2134x1292-1536x930.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/wip_portada_2134x1292-2048x1240.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\wip_portada_2134x1292-2048x1240.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/wip_portada_2134x1292-300x182.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\wip_portada_2134x1292-300x182.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/2023/08/wip_portada_2134x1292-768x465.webp
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\2023\08\wip_portada_2134x1292-768x465.webp
+Content Type: image/webp
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-10731.css?ver=1702078078
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-10731.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-15077.css?ver=1702075729
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-15077.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-16375.css?ver=1702283727
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-16375.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-18.css?ver=1702072624
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-18.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-5047.css?ver=1702079760
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-5047.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-5093.css?ver=1702284326
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-5093.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-5751.css?ver=1702097736
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-5751.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-5753.css?ver=1702086616
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-5753.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-5756.css?ver=1702367457
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-5756.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-6277.css?ver=1702231653
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-6277.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-6624.css?ver=1702086335
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-6624.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-6935.css?ver=1702120349
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-6935.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-7048.css?ver=1702120212
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-7048.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-7090.css?ver=1702073794
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-7090.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-7588.css?ver=1702072624
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-7588.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-7746.css?ver=1702120209
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-7746.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-7843.css?ver=1702082061
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-7843.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/elementor/css/post-9974.css?ver=1702072624
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\elementor\css\post-9974.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-10731.css?ver=1698701638
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-10731.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-10731.js?ver=1698701638
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-10731.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-16375.css?ver=1693162479
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-16375.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-16375.js?ver=1693162479
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-16375.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-5751.css?ver=1691076215
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-5751.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-5751.js?ver=1691076215
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-5751.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-5753.css?ver=1691076267
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-5753.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-5753.js?ver=1691076267
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-5753.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-5756.css?ver=1691076380
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-5756.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-5756.js?ver=1691076380
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-5756.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-6277.css?ver=1691597455
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-6277.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-6277.js?ver=1691597455
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-6277.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-6935.css?ver=1691076087
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-6935.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-6935.js?ver=1691076087
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-6935.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7048.css?ver=1691075026
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7048.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7048.js?ver=1691075026
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7048.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7588.css?ver=1691069663
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7588.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7588.js?ver=1691069663
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7588.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7746.css?ver=1691074903
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7746.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7746.js?ver=1691074903
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7746.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7843.css?ver=1691074383
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7843.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/essential-addons-elementor/eael-7843.js?ver=1691074383
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\essential-addons-elementor\eael-7843.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-04eb82cd6.min.css?ver=1702559025
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-04eb82cd6.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-04eb82cd6.min.css?ver=1702559282
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-04eb82cd6.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-04eb82cd6.min.js?ver=1702559025
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-04eb82cd6.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-04eb82cd6.min.js?ver=1702559282
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-04eb82cd6.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-1198b5c9f.min.css?ver=1702559115
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-1198b5c9f.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-1198b5c9f.min.css?ver=1702559295
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-1198b5c9f.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-1198b5c9f.min.js?ver=1702559115
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-1198b5c9f.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-1198b5c9f.min.js?ver=1702559295
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-1198b5c9f.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-33d70e77e.min.css?ver=1702559021
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-33d70e77e.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-33d70e77e.min.css?ver=1702559190
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-33d70e77e.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-33d70e77e.min.js?ver=1702559021
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-33d70e77e.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-33d70e77e.min.js?ver=1702559190
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-33d70e77e.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-3b7444581.min.css?ver=1702558931
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-3b7444581.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-3b7444581.min.js?ver=1702558931
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-3b7444581.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-3fc4b9069.min.css?ver=1702558969
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-3fc4b9069.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-3fc4b9069.min.js?ver=1702558969
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-3fc4b9069.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.css?ver=1702559342
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.css?ver=1702559344
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.css?ver=1702559345
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-2.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.css?ver=1702559347
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-3.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.css?ver=1702559348
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-4.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.css?ver=1702559349
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-5.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.css?ver=1702559351
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-6.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.js?ver=1702559342
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.js?ver=1702559344
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.js?ver=1702559345
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-2.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.js?ver=1702559347
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-3.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.js?ver=1702559348
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-4.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.js?ver=1702559349
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-5.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-41b58cfbd.min.js?ver=1702559351
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-41b58cfbd.min-6.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-4884bdb97.min.css?ver=1702559118
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-4884bdb97.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-4884bdb97.min.css?ver=1702559316
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-4884bdb97.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-4884bdb97.min.js?ver=1702559118
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-4884bdb97.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-4884bdb97.min.js?ver=1702559316
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-4884bdb97.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70571de67.min.css?ver=1702559117
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70571de67.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70571de67.min.css?ver=1702559305
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70571de67.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70571de67.min.js?ver=1702559117
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70571de67.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70571de67.min.js?ver=1702559305
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70571de67.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70cf87f30.min.css?ver=1702559023
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70cf87f30.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70cf87f30.min.css?ver=1702559262
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70cf87f30.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70cf87f30.min.js?ver=1702559023
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70cf87f30.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-70cf87f30.min.js?ver=1702559262
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-70cf87f30.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-993fda57a.min.css?ver=1702558968
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-993fda57a.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-993fda57a.min.js?ver=1702558968
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-993fda57a.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-c20d53db8.min.css?ver=1702559194
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-c20d53db8.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-c20d53db8.min.js?ver=1702559194
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-c20d53db8.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-c6930a31f.min.css?ver=1702559121
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-c6930a31f.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-c6930a31f.min.css?ver=1702559326
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-c6930a31f.min-1.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-c6930a31f.min.js?ver=1702559121
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-c6930a31f.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-c6930a31f.min.js?ver=1702559326
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-c6930a31f.min-1.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-f39e22b19.min.css?ver=1702558966
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-f39e22b19.min.css
+Content Type: text/css
+
+Uri: https://diegovz.com/wp-content/uploads/premium-addons-elementor/pa-frontend-f39e22b19.min.js?ver=1702558966
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-content\uploads\premium-addons-elementor\pa-frontend-f39e22b19.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-includes/js/comment-reply.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-includes\js\comment-reply.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://diegovz.com/wp-json/
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2F
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2F&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fabout-me
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fabout-me&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fblog
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fblog&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Fclash-royale-reactions
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Fclash-royale-reactions&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Feasy-food-order-eat-and-pay
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Feasy-food-order-eat-and-pay&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Frappi-my-profile
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Frappi-my-profile&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Frappi-new-add-to-cart
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Frappi-new-add-to-cart&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Frappimix
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fprojects%2Frappimix&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fresume
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdiegovz.com%2Fen%2Fresume&format=xml
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://diegovz.com/wp-json/wp/v2/pages/10731
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\pages\10731
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/pages/15077
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\pages\15077
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/pages/5047
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\pages\5047
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/pages/7588
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\pages\7588
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/posts/5751
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\posts\5751
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/posts/5753
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\posts\5753
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/posts/5756
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\posts\5756
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/posts/6935
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\posts\6935
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/posts/7048
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\posts\7048
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/posts/7746
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\posts\7746
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/posts/7843
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\posts\7843
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/projects/16375
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\projects\16375
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/projects/5093
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\projects\5093
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/projects/6277
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\projects\6277
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/projects/6624
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\projects\6624
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/projects/7090
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\projects\7090
+Content Type: application/json
+
+Uri: https://diegovz.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\diegovz.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://diegovz.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\diegovz.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Arapey:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Mono:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Arapey:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Mono:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Fira+Code:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\css-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Mono:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\css-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.2
+File Name: C:\Downloaded Web Sites\diegovz.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:300%2C400%2C600%2C700|Ubuntu:400%2C500%2C700|Poppins:200%2C300%2C400%2C500%2C600%2C700%2C800|Roboto%2BMono:400%2C700&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\diegovz.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/arapey/v16/-W_9XJn-UDDA2RCKZeofTkM.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\arapey\v16\-W_9XJn-UDDA2RCKZeofTkM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arapey/v16/-W__XJn-UDDA2RCKYNoY.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\arapey\v16\-W__XJn-UDDA2RCKYNoY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firacode/v22/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sJVD7Mw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\firacode\v22\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sJVD7Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firacode/v22/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVD7Mw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\firacode\v22\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVD7Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firacode/v22/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsJVD7Mw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\firacode\v22\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsJVD7Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firacode/v22/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprJVD7Mw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\firacode\v22\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprJVD7Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firacode/v22/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrJVD7Mw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\firacode\v22\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrJVD7Mw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5ANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAdW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAdW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B9W6Cpw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B9W6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB9W6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnANW6Cpw.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnANW6Cpw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vu_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7Pq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2_ROW9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Xvq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Xvq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKcQ7z.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\ubuntu\v20\4iCs6KVjbNBYlgoKcQ7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jvmyI.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3jvmyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjvmyI.ttf
+File Name: C:\Downloaded Web Sites\diegovz.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvjvmyI.ttf
+Content Type: font/ttf
+
+Uri: https://s.w.org/images/core/emoji/13.0.1/svg/1f4c8.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\images\core\emoji\13.0.1\svg\1f4c8.svg
+Content Type: image/svg+xml
+
+Uri: https://s.w.org/images/core/emoji/13.0.1/svg/1f609.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\images\core\emoji\13.0.1\svg\1f609.svg
+Content Type: image/svg+xml
+
+Uri: https://s.w.org/images/core/emoji/13.0.1/svg/1f642.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\images\core\emoji\13.0.1\svg\1f642.svg
+Content Type: image/svg+xml
+
+Uri: https://s.w.org/images/core/emoji/13.0.1/svg/1f918.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\images\core\emoji\13.0.1\svg\1f918.svg
+Content Type: image/svg+xml
+
+Uri: https://s.w.org/images/core/emoji/13.0.1/svg/270c.svg
+File Name: C:\Downloaded Web Sites\diegovz.com\images\core\emoji\13.0.1\svg\270c.svg
+Content Type: image/svg+xml
+
